@@ -1,7 +1,5 @@
-#include <shell.h>
+#include "shell.h"
 #include <time.h>
-#include "main.h"
-
 /**
 * _strcat -  Entrypoint
 * Description: 'the program's description _strcat
