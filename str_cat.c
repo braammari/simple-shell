@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <time.h>
 #include "shell.h"
 
-=======
 #include "shell.h"
 #include <time.h>
->>>>>>> 093c614d468f23d61bfac155fc6196c4d9d8d201
 /**
 * _strcat -  Entrypoint
 * Description: 'the program's description _strcat

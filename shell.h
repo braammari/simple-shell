@@ -1,6 +1,5 @@
-#ifndef SHELL_H_
-#define SHELL_H_
-
+#ifndef MAIN_H_
+#define MAIN_H_
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
@@ -46,4 +45,4 @@ extern char **environ;
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 int _atoi(char *str);
 
-#endif /* SHELL_H */
+#endif
