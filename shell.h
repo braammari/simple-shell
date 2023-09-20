@@ -10,6 +10,7 @@
 #include <signal.h>
 #include <errno.h>
 
+char *argstostr(int ac, char **av);
 char *_getenv(const char *name);
 int _strlen(char *s);
 int _strcmp(char *s1, char *s2);

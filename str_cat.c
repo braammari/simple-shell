@@ -1,6 +1,6 @@
-#include <shell.h>
+#include <stdio.h>
 #include <time.h>
-#include "main.h"
+#include "shell.h"
 
 /**
 * _strcat -  Entrypoint
